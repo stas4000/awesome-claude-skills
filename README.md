@@ -86,6 +86,8 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [what-could-break](https://github.com/stas4000/what-could-break) - Finds what a change breaks outside its diff and proves it by running code, for Claude Code and Codex.
+- [tastegate](https://github.com/stas4000/tastegate) - Front-end design skill with a real-browser gate at 390px and 1440px; 29.2 to 2.2 design flaws a page in a 5-page bench.
 
 
 ## 📊 Data & Analysis
